@@ -9,7 +9,7 @@ Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o c
 
 ![Samuel Github stats](https://github-readme-stats.vercel.app/api?username=samuel-vicentini&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-vicentini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-vicentini&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou acostumado a utilizar
 
