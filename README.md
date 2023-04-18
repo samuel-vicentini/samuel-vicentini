@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Samuel Vicentini 👋
-Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o caminho da programação.  
+Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o caminho da programação.
 
 [![Portfólio](https://img.shields.io/website?label=SamuelVicentini.com&style=for-the-badge&url=http://samuelvicentini.com.br/)](http://samuelvicentini.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-vicentini-327633262/)
