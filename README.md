@@ -32,4 +32,3 @@ Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o c
 
  
  
- 
