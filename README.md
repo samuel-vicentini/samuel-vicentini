@@ -12,7 +12,6 @@ Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o c
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-vicentini&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas
-
 <div style="display: inline_block; align='center'"><br/>
     <img  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img  alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,46 +29,4 @@ Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o c
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
-               
-               
-                 
-      
-                
-                 
-              
-           
-               
-                 
-             
-           
-          
-    
-            
-              
-            
-     
-              
-           
-            
-           
-              
-                
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-              
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-               
-                 
+        
